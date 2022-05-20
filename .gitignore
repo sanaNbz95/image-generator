@@ -22,6 +22,11 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+/exercise_data
+/reference_arrays
+NumpyTests.py
+Labels.json
+pattern.py
 
 # Directories potentially created on remote AFP share
 .AppleDB
